@@ -1,0 +1,5 @@
+{
+    "dressesSection": ".sf-menu > :nth-child(2) > .sf-with-ul",
+    "dressElement": ".first-in-line.first-item-of-tablet-line > .product-container > .right-block > .button-container > .ajax_add_to_cart_button > span",
+    "addCart": ".layer_cart_product > h2"
+}

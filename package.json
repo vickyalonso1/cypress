@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cypress": "cypress open"
+    "cypress": "cypress open",
+    "test": "cypress run",
+    "one-test": "cypress run --spec cypress\\integration\\search_visual.spec.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +19,7 @@
   },
   "homepage": "https://github.com/vickyalonso1/cypress#readme",
   "devDependencies": {
+    "@applitools/eyes-cypress": "^3.25.1",
     "cypress": "^9.5.0"
   }
 }
