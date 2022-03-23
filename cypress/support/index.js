@@ -15,8 +15,6 @@
 
 // Import commands.js using ES2015 syntax:
 
-import '@applitools/eyes-cypress/commands'
-
 import './commands'
 import './login'
 import './carrito'

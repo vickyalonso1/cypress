@@ -19,10 +19,6 @@
   },
   "homepage": "https://github.com/vickyalonso1/cypress#readme",
   "devDependencies": {
-    "@applitools/eyes-cypress": "^3.25.1",
     "cypress": "^9.5.0"
-  },
-  "dependencies": {
-    "dotenv": "^16.0.0"
   }
 }

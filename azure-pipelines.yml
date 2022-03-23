@@ -18,4 +18,4 @@ steps:
   - script: |
       npm install
       npx cypress run --spec cypress\\integration\\search.js
-    displayName: "npm install"
+    displayName: "install node packages"
