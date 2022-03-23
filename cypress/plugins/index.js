@@ -22,3 +22,5 @@ module.exports = (on, config) => {
 };
 
 require("@applitools/eyes-cypress")(module);
+
+require('dotenv').config();
