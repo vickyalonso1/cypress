@@ -1,3 +1,3 @@
 module.exports = {
-  apiKey: process.env.APPLITOOLS_API_KEY,
+  apiKey: mABgNBW1047bf3mUwbzKav85ysB4IPw3rZ0PRy1HcUrcU110,
 };
